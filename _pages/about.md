@@ -2,7 +2,7 @@
 permalink: /
 title: "Leonardo Bertassello"
 author_profile: true
-layout: splash
+layout: single
 header:
   overlay_image: /images/hero.jpg
   overlay_filter: 0.5
