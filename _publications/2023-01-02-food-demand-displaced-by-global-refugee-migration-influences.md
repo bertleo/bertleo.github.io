@@ -1,6 +1,7 @@
 ---
 title: "Food demand displaced by global refugee migration influences water use in already water stressed countries"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-02-food-demand-displaced-by-global-refugee-migration-influences
 date: 2023-01-02
 venue: "Nature Communications"

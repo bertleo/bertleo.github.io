@@ -1,6 +1,7 @@
 ---
 title: "Emergent dispersal network in dynamic wetlandscapes"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-02-emergent-dispersal-network-in-dynamic-wetlandscapes
 date: 2020-01-02
 venue: "Scientific Reports"

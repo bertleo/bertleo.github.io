@@ -1,6 +1,7 @@
 ---
 title: "Eco-hydrological modeling of channel network dynamics - Part 2: Application to metapopulation dynamics"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-01-eco-hydrological-modeling-of-channel-network-dynamics-
 date: 2022-01-01
 venue: "Royal Society Open Science"

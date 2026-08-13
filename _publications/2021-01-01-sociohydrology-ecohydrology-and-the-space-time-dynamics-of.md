@@ -1,6 +1,7 @@
 ---
 title: "Sociohydrology, ecohydrology, and the space-time dynamics of human-altered catchments"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-01-sociohydrology-ecohydrology-and-the-space-time-dynamics-of
 date: 2021-01-01
 venue: "Hydrological Sciences Journal"

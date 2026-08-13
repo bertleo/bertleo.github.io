@@ -1,6 +1,7 @@
 ---
 title: "Dynamic spatio-temporal patterns of metapopulation occupancy in patchy habitats"
 collection: publications
+category: manuscripts
 permalink: /publication/2021-01-02-dynamic-spatio-temporal-patterns-of-metapopulation-occupancy-in
 date: 2021-01-02
 venue: "Royal Society Open Science"

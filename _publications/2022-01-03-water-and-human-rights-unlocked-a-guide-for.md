@@ -1,6 +1,7 @@
 ---
 title: "Water and Human Rights, Unlocked: A Guide for Water-Intensive Industries"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-03-water-and-human-rights-unlocked-a-guide-for
 date: 2022-01-03
 venue: "University of Notre Dame"

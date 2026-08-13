@@ -1,6 +1,7 @@
 ---
 title: "Eco-hydrological modeling of channel network dynamics - Part 1: Stochastic simulation of active stream expansion and retraction"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-02-eco-hydrological-modeling-of-channel-network-dynamics-
 date: 2022-01-02
 venue: "Royal Society Open Science"

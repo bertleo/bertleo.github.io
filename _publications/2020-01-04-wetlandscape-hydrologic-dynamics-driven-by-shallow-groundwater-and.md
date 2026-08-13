@@ -1,6 +1,7 @@
 ---
 title: "Wetlandscape hydrologic dynamics driven by shallow groundwater and landscape topography"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-04-wetlandscape-hydrologic-dynamics-driven-by-shallow-groundwater-and
 date: 2020-01-04
 venue: "Hydrological Processes"

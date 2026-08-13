@@ -1,6 +1,7 @@
 ---
 title: "Stochastic dynamics of wetlandscapes: eco-hydrological implications of hydro-climatic forcing and landscape configuration"
 collection: publications
+category: manuscripts
 permalink: /publication/2019-01-01-stochastic-dynamics-of-wetlandscapes-eco-hydrological-implications-of
 date: 2019-01-01
 venue: "Science of the Total Environment"

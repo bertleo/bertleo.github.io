@@ -1,6 +1,7 @@
 ---
 title: "Drivers of regional soil-water storage memory and persistence"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-03-drivers-of-regional-soil-water-storage-memory-and
 date: 2020-01-03
 venue: "Vadose Zone Journal"

@@ -1,6 +1,7 @@
 ---
 title: "Stochastic Modeling of Wetland-groundwater systems"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-01-01-stochastic-modeling-of-wetland-groundwater-systems
 date: 2018-01-01
 venue: "Advances in Water Resources"

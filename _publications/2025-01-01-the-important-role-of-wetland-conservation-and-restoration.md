@@ -1,6 +1,7 @@
 ---
 title: "The important role of wetland conservation and restoration in nitrogen removal across European river basins"
 collection: publications
+category: manuscripts
 permalink: /publication/2025-01-01-the-important-role-of-wetland-conservation-and-restoration
 date: 2025-01-01
 venue: "Nature Water"

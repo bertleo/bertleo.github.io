@@ -1,6 +1,7 @@
 ---
 title: "Topographic Analysis of Wetlandscapes: fractal dimension and scaling properties"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-01-03-topographic-analysis-of-wetlandscapes-fractal-dimension-and-scaling
 date: 2018-01-03
 venue: "HIC 2018. 13th International Conference on Hydroinformatics"

@@ -1,6 +1,7 @@
 ---
 title: "Intra-seasonal drainage network dynamics in a headwater catchment of the Italian Alps"
 collection: publications
+category: manuscripts
 permalink: /publication/2020-01-01-intra-seasonal-drainage-network-dynamics-in-a-headwater
 date: 2020-01-01
 venue: "Water Resources Research"

@@ -1,6 +1,7 @@
 ---
 title: "Mapping the landscape of water and society research: Promising combinations of compatible and complementary disciplines"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-01-01-mapping-the-landscape-of-water-and-society-research
 date: 2024-01-01
 venue: "Wiley Interdisciplinary Reviews: Water"

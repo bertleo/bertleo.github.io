@@ -1,6 +1,7 @@
 ---
 title: "Heterogeneous impacts of large-scale land acquisitions on child nutrition in the Global South"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-02-heterogeneous-impacts-of-large-scale-land-acquisitions-on
 date: 2026-01-02
 venue: "Proceedings of the National Academy of Sciences"

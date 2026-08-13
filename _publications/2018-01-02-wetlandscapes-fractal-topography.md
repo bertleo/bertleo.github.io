@@ -1,6 +1,7 @@
 ---
 title: "Wetlandscapes Fractal Topography"
 collection: publications
+category: manuscripts
 permalink: /publication/2018-01-02-wetlandscapes-fractal-topography
 date: 2018-01-02
 venue: "Geophysical Research Letters"

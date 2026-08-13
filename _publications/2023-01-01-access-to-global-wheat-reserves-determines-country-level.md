@@ -1,6 +1,7 @@
 ---
 title: "Access to global wheat reserves determines country-level vulnerability to conflict-induced Ukrainian wheat supply disruption"
 collection: publications
+category: manuscripts
 permalink: /publication/2023-01-01-access-to-global-wheat-reserves-determines-country-level
 date: 2023-01-01
 venue: "Nature Food"

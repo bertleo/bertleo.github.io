@@ -1,6 +1,7 @@
 ---
 title: "Persistence of amphibian metapopulation occupancy in dynamic wetlandscapes"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-05-persistence-of-amphibian-metapopulation-occupancy-in-dynamic-wetlandscapes
 date: 2022-01-05
 venue: "Landscape Ecology"

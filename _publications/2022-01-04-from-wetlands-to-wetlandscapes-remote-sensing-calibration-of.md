@@ -1,6 +1,7 @@
 ---
 title: "From wetlands to wetlandscapes: remote sensing calibration of process-based hydrological models in heterogeneous landscapes"
 collection: publications
+category: manuscripts
 permalink: /publication/2022-01-04-from-wetlands-to-wetlandscapes-remote-sensing-calibration-of
 date: 2022-01-04
 venue: "Hydrological Processes"

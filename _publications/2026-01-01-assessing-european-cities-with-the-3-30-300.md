@@ -1,6 +1,7 @@
 ---
 title: "Assessing European cities with the 3-30-300 rule underscores the need for enhanced urban greening efforts"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-01-01-assessing-european-cities-with-the-3-30-300
 date: 2026-01-01
 venue: "Nature Communications"
