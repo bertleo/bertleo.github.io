@@ -3,11 +3,6 @@ permalink: /
 title: "Leonardo Bertassello"
 author_profile: true
 layout: single
-header:
-  overlay_image: /images/hero.jpg
-  overlay_filter: 0.5
-  caption: ""
-excerpt: "Researcher advancing climate risk and nature-based solutions research at the European Commission, with a focus on European cities and blue-green adaptation strategies."
 redirect_from: 
   - /about/
   - /about.html
